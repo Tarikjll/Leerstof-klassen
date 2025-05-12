@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"be.odisee.jazzclub","l":"Authenticator"},{"p":"be.odisee.jazzclub","l":"Bekendmaking"},{"p":"be.odisee.jazzclub","l":"Jazzclub"},{"p":"be.odisee.jazzclub","l":"Lid"},{"p":"be.odisee.jazzclub","l":"Poging"}];updateSearchResults();
