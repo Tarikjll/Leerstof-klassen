@@ -12,8 +12,8 @@ public class Main {
         kat.makeSound();
         hond.makeSound();
 
-        // Use inheritance
-        System.out.println("With inheritance");
+        System.out.println("Opnieuw: ");
+
         SoundProducer[] producers = new SoundProducer[]{
                 // new SoundProducer(),
                 new Hond(),
