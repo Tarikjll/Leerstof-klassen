@@ -10,8 +10,7 @@ public class Jazzclub {
     private static int aantalFouteBekendmakingspogingen[] = {0, 0, 0};
 
     // REQ0008 Het is bekend hoeveel foute pogingen er waren om voor het lidnummer het juiste paswoord te geven
-    private static final int MAX_AANTAL_FOUTEN = 3;
-
+    private static final int MAX_AANTAL_FOUTEN = 2;
     // REQ0005 Het is bekend welk lid zich succesvol bekend gemaakt heeft
     private static int bekendgemaaktLidnummer = 0;
 
