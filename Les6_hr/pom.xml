@@ -20,6 +20,7 @@
                             <mainClass>
                                 be.odisee.ti1.hr.MaandelijkseBetaling
                             </mainClass>
+
                         </manifest>
                     </archive>
                 </configuration>
